@@ -1,0 +1,6 @@
+{
+    "contact_email": "test_hbmp_client_31-3-20@qa.com",
+    "contact_address": "Advertising System Inc., 101 Test QA Street, New York, NY 10101",
+    "version": "1.0",
+    "identifiers": [{"name": "QA-ID", "value": "qwerty123"}]
+}
