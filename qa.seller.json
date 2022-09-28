@@ -3,5 +3,5 @@
     "contact_address": "Advertising System Inc., 101 Test QA Street, New York, NY 10101",
     "version": "1.0",
     "identifiers": [{"name": "QA-ID", "value": "qwerty123"}],
-    "sellers": [{"name": "Publisher_Qa_1", "domain": "test_4815_17-1-22.adthbmp.com", "seller_type": "PUBLISHER"}]
+    "sellers": [{"seller_id": "1942009976", "name": "Publisher_Qa_1", "domain": "test_4815_17-1-22.adthbmp.com", "seller_type": "PUBLISHER"}]
 }
